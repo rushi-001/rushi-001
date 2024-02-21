@@ -4,7 +4,7 @@
 
 Hello! My name is Rushi,I am 19-year-old developer from the India!
 
-📑 [Portfolio](https://) | 📸 [Instagram](https://www.instagram.com/rushi.panchal.2004/)                                                              <img src="future-internet.gif" height="32">
+📑 [Portfolio](https://) | 📸 [Instagram](https://www.instagram.com/rushi.panchal.2004/)                                                              <img src="future-internet.gif" height="95">
 
 ### A bit about me
 - I've been coding for a year now and have gained knowledge in HTML, CSS, JavaScript, React.js, Bootstrap, and R3F.
