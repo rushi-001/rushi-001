@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <img src="src/assets/avtar-without-bg.png" height="32"> Rushi
+# <img src="avtar-without-bg.png" height="32"> Rushi
 
 Hello! My name is Rushi,I am 19-year-old developer from the India!
 
