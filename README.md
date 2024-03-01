@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi-001&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-001" /> </p>
 
-- 🔭 I’m currently working on small frontend projects [Portfolio-website_ReactApp](https://github.com/rushi-001/Portfolio-website_ReactApp)
+- 🔭 I’m currently working on small frontend projects
 
 - 🌱 I’m currently learning **REACT.JS**
 
