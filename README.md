@@ -1,14 +1,14 @@
 ![banner](banner.webp)
 
 <pre>
-                                      >>===========================================<<
-                                      ||   _   _      _ _            _    _ _   _  ||
-                                      ||  | | | | ___| | | ___      / \  | | | | | ||
-                                      ||  | |_| |/ _ \ | |/ _ \    / _ \ | | | | | ||
-                                      ||  |  _  |  __/ | | (_) |  / ___ \| | | |_| ||
-                                      ||  |_| |_|\___|_|_|\___/  /_/   \_\_|_| (_) ||
-                                      ||                                           ||
-                                      >>===========================================<<
+                                          >>===========================================<<
+                                          ||   _   _      _ _            _    _ _   _  ||
+                                          ||  | | | | ___| | | ___      / \  | | | | | ||
+                                          ||  | |_| |/ _ \ | |/ _ \    / _ \ | | | | | ||
+                                          ||  |  _  |  __/ | | (_) |  / ___ \| | | |_| ||
+                                          ||  |_| |_|\___|_|_|\___/  /_/   \_\_|_| (_) ||
+                                          ||                                           ||
+                                          >>===========================================<<
 
 +----------------------------------------------------------------------------------------------------------------------+
 
@@ -35,7 +35,7 @@
 | Skills            |
 +-------------------+
 <p align="left">
-  <img src="https://github.com/rushi-001/rushi-001/assets/133478781/5fbde367-6c4d-40da-8253-8722796d6365" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://github.com/rushi-001/rushi-001/assets/133478781/499384aa-c36a-4112-92f9-23b0432d133c" alt="Node.js" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+<img src="https://github.com/rushi-001/rushi-001/assets/133478781/5fbde367-6c4d-40da-8253-8722796d6365" alt="Bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> <img src="https://github.com/rushi-001/rushi-001/assets/133478781/499384aa-c36a-4112-92f9-23b0432d133c" alt="Node.js" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 +----------------------------------------------------------------------------------------------------------------------+
