@@ -12,11 +12,11 @@
 
 +----------------------------------------------------------------------------------------------------------------------+
 
-+---------------------------------------+
-| 👋 Hello! My Name is Rushi Panchal.   |
-+---------------------------------------+
++----------------------------------------------------------------+
+| 👋 Hello! My Name is Rushi Panchal, developer from INDIA 🇮🇳.   |
++----------------------------------------------------------------+
                                                                                          
-github@rushi-001~/> 😄 I'm a 19-year-old developer from India 🇮🇳.                                                     
+github@rushi-001~/> 😄 I'm a 19-year-old.                                                     
 github@rushi-001~/> 🔭 I’m currently working on small projects and improving my coding skills.                    
 github@rushi-001~/> 💬 We can chat about HTML, CSS, JavaScript, React, Three.js, Node.js, chess, or new software's & tech.                              
 github@rushi-001~/> ⚡ Besides coding, I like to play chess ♟️.
