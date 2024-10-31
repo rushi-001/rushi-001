@@ -16,7 +16,7 @@
 | 👋 Hello! My Name is Rushi Panchal, developer from INDIA 🇮🇳.   |
 +----------------------------------------------------------------+
                                                                                          
-github@rushi-001~/> 😄 I'm a 19-year-old.                                                     
+github@rushi-001~/> 😄 I'm a 21-year-old.                                                     
 rushi-001@github~/> 🔭 I’m currently working on small projects and improving my coding skills.                    
 rushi-001@github~/> 💬 We can chat about HTML, CSS, JavaScript, React, Three.js, Node.js, chess, or new software's & tech.                              
 rushi-001@github~/> ⚡ Besides coding, I like to play chess ♟️.
