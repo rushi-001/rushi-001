@@ -17,9 +17,9 @@
 +----------------------------------------------------------------+
                                                                                          
 github@rushi-001~/> 😄 I'm a 19-year-old.                                                     
-github@rushi-001~/> 🔭 I’m currently working on small projects and improving my coding skills.                    
-github@rushi-001~/> 💬 We can chat about HTML, CSS, JavaScript, React, Three.js, Node.js, chess, or new software's & tech.                              
-github@rushi-001~/> ⚡ Besides coding, I like to play chess ♟️.
+rushi-001@github~/> 🔭 I’m currently working on small projects and improving my coding skills.                    
+rushi-001@github~/> 💬 We can chat about HTML, CSS, JavaScript, React, Three.js, Node.js, chess, or new software's & tech.                              
+rushi-001@github~/> ⚡ Besides coding, I like to play chess ♟️.
 
 +----------------------------------------------------------------------------------------------------------------------+
 
